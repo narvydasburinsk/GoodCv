@@ -5,7 +5,8 @@ from Imports.Utils import *
 def AppStart():
     Column (
         Row(
-            Text("Title")
+            Text("Title"),
+            Button("Notify", code="ui.notify('Hello world!')")  # works
         ),
         Row(
             Text("Hi everybody this is my web cv, i made this entirely out of python. I know it may seem dumb. But i like it. I hope you to.")
