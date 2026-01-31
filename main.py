@@ -3,3 +3,4 @@ from Screens.App import *
 
 
 AppStart()
+ui.run()
