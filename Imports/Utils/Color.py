@@ -1,0 +1,13 @@
+orange = '#FFA500'
+white = '#FFFFFF'
+black = '#000000'
+gray = '#888888'
+blue = '#1E90FF'
+red = '#FF0000'
+green = '#00FF00'
+yellow = '#FFFF00'
+purple = '#800080'
+pink = '#FFC0CB'
+lightGray = '#D3D3D3'
+darkGray = '#A9A9A9'
+gold = "#FFD700"
