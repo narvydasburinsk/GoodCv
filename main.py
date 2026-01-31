@@ -1,6 +1,8 @@
 # Install first: pip install nicegui
 
 from nicegui import ui
+from Screens.App import *
+
 
 # Title
 ui.label('Hello! Welcome to NiceGUI!')
