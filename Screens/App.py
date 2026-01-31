@@ -3,7 +3,7 @@ from Imports.UI_visible import *
 from Imports.Utils import *
 
 def AppStart():
-    Column (
+    Column(
         Row(
             Text("Title"),
             Button("Notify", code="ui.notify('Hello world!')")  # works
