@@ -28,7 +28,7 @@ jobs:
 
       - name: Auto-format code
         run: |
-          black .
+          black . --line-length 79
 
       - name: Check Python code for errors
         run: |
