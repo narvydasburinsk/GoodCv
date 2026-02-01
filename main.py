@@ -1,5 +1,5 @@
 from nicegui import ui
-from Screens.App import *
+from Screens.App import AppStart  
 
 
 AppStart()
