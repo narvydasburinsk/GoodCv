@@ -1,4 +1,4 @@
-from nicegui import *
+from nicegui import ui
 
 # Button that executes string safely
 def Button(text: str, code: str = None):
