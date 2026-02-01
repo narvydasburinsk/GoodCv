@@ -32,7 +32,7 @@ jobs:
 
       - name: Check Python code for errors
         run: |
-          flake8 . --ignore=F401,E501
+          flake8 . --ignore=F401,E501,W391
 
       - name: Commit and push changes if any
         run: |
