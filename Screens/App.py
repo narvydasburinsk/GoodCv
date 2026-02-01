@@ -1,6 +1,6 @@
-from nicegui import *
-from Imports.UI_visible import *
-from Imports.Utils import *
+from nicegui import ui, Button, Text
+from Imports.UI_visible import Column, Row
+# from Imports.Utils import *
 
 def AppStart():
     Column(
